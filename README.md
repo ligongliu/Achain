@@ -36,4 +36,4 @@ Technical support can be obtained from the [AchainTalk Technical Support Forum](
 License
 ------
 
-The Achain project is licensed under the [MIT license](LICENSE).
+The Achain project is licensed under the [GPL license](LICENSE).
